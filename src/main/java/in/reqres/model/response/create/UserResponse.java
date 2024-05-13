@@ -21,6 +21,7 @@ public class UserResponse {
 
     public void setJob(String job) {
         this.job = job;
+
     }
 
     public String getId() {
