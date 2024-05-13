@@ -1,9 +1,8 @@
 package in.reqres.tests.registration;
 
-import in.reqres.model.request.RegistrationRequest;
+import in.reqres.model.request.register.RegistrationRequest;
 import in.reqres.tests.ApiTestBase;
 import in.reqres.utils.ApiUtils;
-import io.restassured.http.ContentType;
 import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.given;
